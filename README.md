@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Data Analyst | ML & Robotics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/2yaf2wb.gif" width="420"/>
+  <img src="https://media.giphy.com/media/26xBJuJg3tJ0VnU4A/giphy.gif" width="420"/>
 </p>
 
 ---
