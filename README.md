@@ -17,7 +17,11 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,linux,git,github,mysql,postgresql,matlab,mongodb,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,mysql,mongodb,anaconda" />
+</p>
+
+<p align="center">
+  <b>Deep Learning | Machine Learning | Computer Vision | Robotics</b>
 </p>
 
 ---
