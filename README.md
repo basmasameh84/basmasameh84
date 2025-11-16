@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,linux,git,github,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,linux,git,github,mysql,postgresql,matlab,mongodb,anaconda" />
 </p>
 
 ---
