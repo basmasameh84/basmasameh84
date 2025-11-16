@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Data Analyst | ML & Robotics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/premium/ai-brain-network-51887.gif" width="420"/>
+  <img src="https://assets6.lottiefiles.com/packages/lf20_ybrm8bft.json" width="420"/>
 </p>
 
 ---
