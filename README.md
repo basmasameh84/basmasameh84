@@ -1,7 +1,4 @@
-# Basma_Style1.md
-
-````md
-<h1 align="center">👋 Hi, I'm Basma</h1>
+<h1 align="center">✨ Hi, I'm Basma ✨</h1>
 <h3 align="center">AI Engineer | Data Analyst | ML & Robotics Enthusiast</h3>
 
 <p align="center">
@@ -10,22 +7,22 @@
 
 ---
 
-### 🧠 About Me  
+## 👩‍💻 About Me
 - 🎓 AI & Computer Science Student  
-- 🤖 Passionate about Deep Learning, CV, NLP, Robotics  
-- 📊 Interested in Data Analytics & ML Deployment  
-- 💡 Always learning & building cool AI projects
+- 🤖 Passionate about **Deep Learning, Computer Vision, NLP, Robotics**  
+- 📊 Interested in **Data Analytics & ML Deployment**  
+- 🚀 Always learning & building impactful AI projects  
 
 ---
 
-### 🚀 Tech Stack  
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,linux,git,github,mysql,postgresql" />
 </p>
 
 ---
 
-### 🧩 Featured Skills  
+## ⭐ Featured Skills
 ```python
 class BasmaAI:
     def __init__(self):
@@ -38,6 +35,3 @@ class BasmaAI:
 
 me = BasmaAI()
 print(me.intro())
-````
-
-````
